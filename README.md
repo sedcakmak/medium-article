@@ -1,4 +1,4 @@
-# medium-article
+# Medium-Article
 This project is done as a part of the challenge of LeWagon Coding Bootcamp. The challenge was to copy a Medium Article. However, I experimented with several issues which were not 
 required by the original challenge.
 
