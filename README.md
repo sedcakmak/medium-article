@@ -6,7 +6,7 @@ required by the original challenge.
 
 * I experimented with the :before and :after pseudo-classes and implemented them successfully.
 
-* I also experimented with the <blockquote> element with a nice styling of quotation marks. I commented it out as it messed up the rest of my code.
+<blockquote> * I also experimented with the blockquote element with a nice styling of quotation marks. I commented it out as it messed up the rest of my code. </blockquote>
 
 ## The problems I couldn't solve (yet):
 
