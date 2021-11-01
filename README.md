@@ -1,5 +1,5 @@
 # Medium-Article
-This project is done as a part of the challenge of LeWagon Coding Bootcamp. The challenge was to copy a Medium Article. However, I experimented with several issues which were not 
+This project is done as a part of the Medium Copycat Challenge of LeWagon Coding Bootcamp. The challenge was to copy a Medium Article. However, I experimented with several issues which were not 
 required by the original challenge.
 
 * I paid more attention to responsive web design. It's now scaling nicely on other devices. This was my first time using media queries, so I studied a lot before implementing it.
